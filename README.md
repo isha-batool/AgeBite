@@ -16,7 +16,8 @@ The **FGNET** dataset was also used. A masked version of this dataset is availab
 
 ### 3. Our Custom Dataset
 We collected our own pictures of locals to create a custom dataset and trained the model on this dataset as well.
-![Sample Image](Images/Custom Dataset.png)
+
+![Custom Dataset](Images/Custom%20Dataset.png)
 
 ## Goal
 
