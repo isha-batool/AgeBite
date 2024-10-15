@@ -59,3 +59,4 @@ This project provided valuable insights into:
 
 - [MaskTheFace GitHub Repository](https://github.com/aqeelanwar/MaskTheFace)
 - [FGNET-Mask Dataset on Kaggle](https://www.kaggle.com/datasets/vatsapatel09/fgnet-mask-dataset)
+- [Age Gender Classification UTK-FACE](https://github.com/ArminBaz/UTK-Face)
