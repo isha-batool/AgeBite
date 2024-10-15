@@ -30,6 +30,10 @@ The following preprocessing steps were performed:
 - Images were resized to **48x48** pixels for uniformity.
 - All processed images were stored in a CSV file for easy manipulation and processing.
 
+## Model
+
+![Model Architecture](Images/Model%20Architecture.png)
+
 ## Training
 
 The model was trained using **30 epochs** and produced the following results:
